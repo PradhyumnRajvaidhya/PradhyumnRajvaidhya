@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PradhyumnRajvaidhya
+- 👀 I’m interested in Software Testing.
+- 🌱 I’m currently learning Software Testing frameworks like Karate, appium etc.
+- 💞️ I’m looking to collaborate on github.
